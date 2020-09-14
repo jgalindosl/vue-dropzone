@@ -11,7 +11,7 @@
   "main": "./dist/vue2Dropzone.js",
   "repository": "git@github.com:rowanwins/vue-dropzone.git",
   "devDependencies": {
-    "@babel/core": "^7.3.4",
+    "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.3.4",
     "babel-loader": "^8.0.5",
     "babel-plugin-external-helpers": "^6.22.0",
@@ -57,6 +57,6 @@
     "dist"
   ],
   "dependencies": {
-    "dropzone": "^5.5.1"
+    "dropzone": "^5.7"
   }
 }
